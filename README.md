@@ -17,4 +17,6 @@ To run this follow these steps:
 6. After taking all this paramters this ML module will predict your surviving chances on percentage basis.
 
 **Note: You can also run this project on any python ide just make sure you have all ML packages installed**
+
+
 ***GUI model or Web Model comming soon***
