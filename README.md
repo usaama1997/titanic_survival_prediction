@@ -1,5 +1,5 @@
-# Titanic_survival_prediction
-##This project is only for fun please don't take it serious.
+# Titanic Survival Prediction
+## This project is only for fun please don't take it serious.
 This is a simple Machine Learning project based on Titanic ship whether you will survive or not.
 
 This project is developed using python's jupyter notebook
